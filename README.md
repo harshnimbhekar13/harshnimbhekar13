@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsh Nimbhekar
 
 
-### 📊 Aspiring Data Analyst | Power BI Developer | Python & SQL Enthusiast
+### 📊 Data Analytics Enthusiast | Transforming Data into Actionable Insights
 
 🔭 I'm currently working on Power BI, SQL, and Python Projects
 
