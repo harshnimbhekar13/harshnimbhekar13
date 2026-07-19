@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Harsh Nimbhekar
 
-
 ### 📊 Data Analytics Enthusiast | Transforming Data into Actionable Insights
 
 🔭 I'm currently working on Power BI, SQL, and Python Projects
